@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;	
+}
+	
+.form{
+	margin-top: 200px;
+}
+.btn{
+	background-color: #000;
+	color: #fff;
+	padding: 10px;
+	text-decoration: none;	
+}
+.box{
+	height: 200px;
+	width: 200px;
+	background-color: black;
+}
